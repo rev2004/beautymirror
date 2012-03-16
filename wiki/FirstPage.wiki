@@ -1,0 +1,27 @@
+#summary One-sentence summary of this page.
+= Welcome GEEKs to join this program . =
+
+You submit a person's face picture ,we return you the beauty score of this face.
+
+= What does this project do ? =
+
+You submit a person's face picture ,we return you the beauty or handsome score of this face.
+
+= What will this project be ? =
+
+I am a green hand in java as well as Face Recognition system, but i think there is lots of fun estimate  one's degree of beauty or handsome.
+
+= What technology or knowledge do we need ?=
+  * java .
+  * spring framework.
+  * struts framework.
+  * wide Face Recognition knowledge.
+  * maven,junit test framework.
+  * hadoop distributed framework is a big plus.
+  * design pattern is a big plus.
+
+= What can you get from joining this program ?=
+  * practice you programming capability and improve you capability of design a system .
+  * communicate with team partner to learn more Face Recognition knowledge.
+  * have fun and make friends.
+
