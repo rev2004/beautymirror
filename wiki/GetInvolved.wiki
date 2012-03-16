@@ -1,13 +1,16 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Which talented person are we looking for ? =
 
-Add your content here.
+  * sense of responsibility and  Concentrated.
+  * Source code and fixes contributions
+  * Documentation assistance
+  * Product and feature suggestions
 
 
-= Details =
+= Where should I start ?=
 
 Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * 
+  *
+  *
