@@ -15,7 +15,7 @@ I am a green hand in java as well as Face Recognition system, but i think there 
   * java .
   * spring framework.
   * struts framework.
-  * wide Face Recognition knowledge.
+  * wide *Face Recognition* knowledge.
   * maven,junit test framework.
   * hadoop distributed framework is a big plus.
   * design pattern is a big plus.
