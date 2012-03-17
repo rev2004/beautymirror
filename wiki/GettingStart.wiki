@@ -1,11 +1,23 @@
-#summary One-sentence summary of this page.
+# How to start...
 
-= Introduction =
+= Prerequisite =
+  ==Develop Tool==
+  * install tools below *
+    * eclipse 3.X
+    * maven 3.X
+    * svn client
+    * 
+  ==Dependency lib==
+  * add maven dependencies below in pom.xml*  
+    * spring framework lib
+    * junit lib
+    to continued...
 
-Add your content here.
 
-
-= Details =
+= Check out And Code review  =
+    # 1.use svn client to check out the source code of this project
+    # 2.review the lines have been done
+    # 3.start your coding or something else based on what have done
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
