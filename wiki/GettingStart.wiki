@@ -1,7 +1,7 @@
 #summary How to start...
 
 = Prerequisite =  
-    * install Develop Tool below *
+    * *install Develop Tool below *
       * eclipse 3.X ,* confirm your jdk is version 1.6+ *.
       * subclipse plugin for eclipse
       * maven 3.X
