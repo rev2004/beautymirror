@@ -1,15 +1,13 @@
 #summary How to start...
 
-= Prerequisite =
-  ==Develop Tool==
-    * install tools below *
+= Prerequisite =  
+    * install Develop Tool below *
       * eclipse 3.X ,* confirm your jdk is version 1.6+ *.
       * subclipse plugin for eclipse
       * maven 3.X
       * m2eclipse plugin for eclipse
       * 
-= Check out And Code review  =   
-      
+= Check out And Code review  =         
       # use subclipse to check out the source code of this project into eclipse.
       # review the lines have been done.
       # start your coding or something else. 
