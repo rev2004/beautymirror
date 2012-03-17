@@ -8,19 +8,7 @@
       * maven 3.X
       * m2eclipse plugin for eclipse
       * 
-  ==Dependency lib==
-    * add maven dependencies below in pom.xml*  
-      * spring framework lib
-      * junit-4.8.jar
-      to continued...
-
-
 = Check out And Code review  =   
-      # use svn client to check out the source code of this project
-      # review the lines have been done
-      # start your coding or something else based on what have done
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+      # use subclipse to check out the source code of this project into eclipse.
+      # review the lines have been done.
+      # start your coding or something else. 
