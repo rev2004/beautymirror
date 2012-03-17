@@ -9,6 +9,7 @@
       * m2eclipse plugin for eclipse
       * 
 = Check out And Code review  =   
-      # use subclipse to check out the source code of this project into eclipse.
-      # review the lines have been done.
-      # start your coding or something else. 
+      
+      * # use subclipse to check out the source code of this project into eclipse.
+      * # review the lines have been done.
+      * # start your coding or something else. 
