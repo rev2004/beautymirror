@@ -2,22 +2,23 @@
 
 = Prerequisite =
   ==Develop Tool==
-  * install tools below *
-    * eclipse 3.X
-    * maven 3.X
-    * svn client
-    * 
+    * install tools below *
+      * eclipse 3.X ,* confirm your jdk is version 1.6+ *.
+      * subclipse plugin for eclipse
+      * maven 3.X
+      * m2eclipse plugin for eclipse
+      * 
   ==Dependency lib==
-  * add maven dependencies below in pom.xml*  
-    * spring framework lib
-    * junit lib
-    to continued...
+    * add maven dependencies below in pom.xml*  
+      * spring framework lib
+      * junit-4.8.jar
+      to continued...
 
 
-= Check out And Code review  =
-    # 1.use svn client to check out the source code of this project
-    # 2.review the lines have been done
-    # 3.start your coding or something else based on what have done
+= Check out And Code review  =   
+      # use svn client to check out the source code of this project
+      # review the lines have been done
+      # start your coding or something else based on what have done
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
