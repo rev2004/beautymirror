@@ -1,5 +1,5 @@
 #summary About this Program
-= Welcome GEEKs to join this program . =
+= Welcome Geeks to join this program . =
 
 You submit a person's face picture ,we return you the beauty score of this face.
 
